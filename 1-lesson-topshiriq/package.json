@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.19.2",
+    "init": "^0.1.2",
     "mongoose": "^8.5.3"
   },
   "name": "1-lesson-topshiriq",
@@ -12,5 +13,6 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {},
   "description": ""
 }
